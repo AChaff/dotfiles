@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alex.1504@yahoo.fr
+	name = Alexandre Chaffanjon
